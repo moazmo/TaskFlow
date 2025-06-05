@@ -4,14 +4,14 @@ A beautiful, modern desktop task management application built with Electron, Rea
 
 ## 📸 Screenshots
 
-### TaskFlow Interface Preview
-![TaskFlow Demo](./assets/screenshots/taskflow-demo.svg)
-
-### Live Screenshots
+### Light Theme
 ![TaskFlow Main Interface](./assets/screenshots/taskflow-main.png)
+
+### Dark Theme
 ![TaskFlow Dark Mode](./assets/screenshots/taskflow-dark.png)
 
-> 💡 **Note**: Replace the demo SVG above with actual screenshots. See [assets/screenshots/README.md](./assets/screenshots/README.md) for instructions on adding real demo images.
+### Task Management
+![TaskFlow Task Detail](./assets/screenshots/taskflow-task-detail.png)
 
 ## ✨ Features
 
