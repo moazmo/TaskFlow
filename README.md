@@ -2,7 +2,16 @@
 
 A beautiful, modern desktop task management application built with Electron, React, and TypeScript. TaskFlow helps you organize your tasks, projects, and productivity with an intuitive interface and powerful features.
 
-![TaskFlow Screenshot](https://via.placeholder.com/800x500/3b82f6/white?text=TaskFlow+Screenshot)
+## 📸 Screenshots
+
+### TaskFlow Interface Preview
+![TaskFlow Demo](./assets/screenshots/taskflow-demo.svg)
+
+### Live Screenshots
+![TaskFlow Main Interface](./assets/screenshots/taskflow-main.png)
+![TaskFlow Dark Mode](./assets/screenshots/taskflow-dark.png)
+
+> 💡 **Note**: Replace the demo SVG above with actual screenshots. See [assets/screenshots/README.md](./assets/screenshots/README.md) for instructions on adding real demo images.
 
 ## ✨ Features
 
